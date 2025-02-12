@@ -188,7 +188,7 @@ def page2():
     turtle.goto(-200, -200)
     turtle.color('blue')
     turtle.pendown()
-    turtle.write('大笨蛋         小笨蛋', font=('wisdom', 50, 'normal'))
+    turtle.write('大大大         小小小', font=('wisdom', 50, 'normal'))
     turtle.penup()
     turtle.goto(0, -190)
     draw_heart(10)
